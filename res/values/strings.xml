@@ -1,0 +1,30 @@
+<resources>
+
+    <string name="app_name">RubyGems</string>
+    <string name="title_activity_main">RubyGems</string>
+    
+    <string name="logout">Log Out</string>
+    
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    
+    <string name="dashboard">Dashboard</string>
+    <string name="my_gems">My Gems</string>
+    <string name="search">Search</string>
+    
+    <string name="downloads">Downloads</string>
+    <string name="this_version">This Version</string>
+    <string name="homepage">Homepage</string>
+    <string name="source_code">Source Code</string>
+    <string name="documentation">Documentation</string>
+    <string name="wiki">Wiki</string>
+    <string name="mailing_list">Mailing List</string>
+    <string name="bug_tracker">Bug Tracker</string>
+    
+    <string name="authors">Authors</string>
+    <string name="dependencies">Dependencies</string>
+    <string name="runtime">Runtime</string>
+    <string name="development">Development</string>
+
+</resources>
